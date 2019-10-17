@@ -38,8 +38,12 @@ background-color: mintcream;
   font-size: 40px;
 }
 
+.row div:hover {
+  background-color: green;
+}
+
 div.row {
-  margin-left: 140px;
+  margin-left: 500px;
 }
 
 .row {
